@@ -1,0 +1,34 @@
+{
+  "intro": {
+    "title": "Intro Screen",
+    "text": {
+      "introText": "This is the intro text in english",
+      "login": "Login",
+      "signup": "Sign Up"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "title2": "your account",
+    "invalidPhone": "Invalid phone number",
+    "phone": "Phone number",
+    "enterPhone": "Enter phone number",
+    "phoneNotRegistered": "Phone number is not registered",
+    "registerAccount": "Register account",
+    "password": "Password",
+    "enterPassword": "Enter password",
+    "invalidPassword": "Invalid password",
+    "forgotPassword": "Forgot password",
+    "authenRequire": "Authentication request",
+    "fingerprintSensor": "Fingerprint sensor",
+    "notIdentify": "Unable to identify",
+    "loginWith": "Login with",
+    "dontHaveAccount": "Don't have account?",
+    "register": "Register"
+  },
+  "common": {
+    "error": "Đã có lỗi xảy ra",
+    "invalidEmpty": "Không được để trống thông tin",
+    "cancel": "Huỷ bỏ"
+  }
+}

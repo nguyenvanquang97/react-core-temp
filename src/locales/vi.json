@@ -1,0 +1,36 @@
+{
+  "intro": {
+    "title": "Intro Screen",
+    "text": {
+      "introText": "This is the intro text in english",
+      "login": "Login",
+      "signup": "Sign Up"
+    }
+  },
+  "login": {
+    "title": "Đăng nhập",
+    "title2": "tài khoản của bạn",
+    "text": {
+      "invalidPhone": "Số điện thoại không hợp lệ",
+      "phone": "Số điện thoại",
+      "enterPhone": "Nhập số điện thoại",
+      "phoneNotRegistered": "Số điện thoại chưa được đăng ký",
+      "registerAccount": "Đăng ký tài khoản",
+      "password": "Mật khẩu",
+      "enterPassword": "Nhập mật khẩu",
+      "invalidPassword": "Mật khẩu không đúng",
+      "forgotPassword": "Quên mật khẩu",
+      "authenRequire": "Yêu cầu xác thực",
+      "touchSensor": "Cảm biến vân tay",
+      "notIdentify": "Không nhận dạng được",
+      "loginWith": "Đăng nhập bằng",
+      "dontHaveAccount": "Chưa có tài khoản?",
+      "register": "Đăng ký"
+    }
+  },
+  "common": {
+    "error": "Đã có lỗi xảy ra",
+    "invalidEmpty": "Không được để trống thông tin",
+    "cancel": "Huỷ bỏ"
+  }
+}
